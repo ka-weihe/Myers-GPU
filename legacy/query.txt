@@ -1,0 +1,2 @@
+futhark dataset -b --u16-bounds=0:255 -g [10]u16 -g [100000000]u16 -g 1000000i32 > data
+
